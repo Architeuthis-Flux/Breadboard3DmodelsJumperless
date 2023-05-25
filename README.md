@@ -8,9 +8,10 @@ The Fusion 360 files are too big to upload so you can find them here at [this Go
 
 ![Jumperless2](https://github.com/Architeuthis-Flux/Breadboard3DmodelsJumperless/assets/20519442/6fbf4879-2c39-4713-9cb1-94220e01990d)
 ![Breadboard v12](https://github.com/Architeuthis-Flux/Breadboard3DmodelsJumperless/assets/20519442/cb0f0033-e92c-4afb-9c3e-a6ae38c004c2)
-![bbClips3 v10](https://github.com/Architeuthis-Flux/Breadboard3DmodelsJumperless/assets/20519442/ff60bc6c-6c88-4c9b-b759-2bfbda0d3afa)
+![bbSimple v4](https://github.com/Architeuthis-Flux/Breadboard3DmodelsJumperless/assets/20519442/73056d31-996e-4890-aa14-1b96b6d3f10b)
 
-These clips fit a WS2812C-2020 addressable RGB LEDs in the middle.
+
+These clips fit a WS2812C-2020 addressable RGB LEDs in the middle. (older design shown here)
 ![bbClips3 v10led](https://github.com/Architeuthis-Flux/Breadboard3DmodelsJumperless/assets/20519442/4d9ca150-e8e1-49d8-81a3-98e38a32e54e)
 ![Breadboard NL v1](https://github.com/Architeuthis-Flux/Breadboard3DmodelsJumperless/assets/20519442/6bcdb093-0e7a-4b8c-a2f6-d6bf81389e9e)
 
